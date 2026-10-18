@@ -1,0 +1,5 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+ESP32-WROOM-32E,1,Amazon,$26.99,$26.99,https://www.amazon.com/dp/B0H6MD52RR?tag=blueprintam-20&linkCode=osi&th=1
+AMS1117-3.3V LDO,1,Amazon,$6.49,$6.49,https://www.amazon.com/dp/B01HXU1NQY?tag=blueprintam-20&linkCode=osi&th=1&psc=1
+2.4 Inch TFT LCD with XPT2046 Touch Controller,1,Amazon,$20.50,$20.50,https://www.amazon.com/dp/B0GYMVG3FV?tag=blueprintam-20&linkCode=osi&th=1&psc=1
+Estimated total shipping,1,,,$0.00,
