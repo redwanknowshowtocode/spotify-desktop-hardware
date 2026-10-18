@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 2 | 6.04h | 9 |
+| Week 2 | Tier 1 | 6.04h | 9 |
 
 ## Contents
 
