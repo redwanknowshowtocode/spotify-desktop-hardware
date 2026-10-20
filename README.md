@@ -1,5 +1,6 @@
 # Spotify Desktop Hardware
 <img width="488" height="330" alt="image" src="https://github.com/user-attachments/assets/81a84b09-e01e-49e5-a1ba-7be2a8994cfc" />
+<img width="618" height="394" alt="image" src="https://github.com/user-attachments/assets/3ee0b483-0728-4772-b9ae-ef9ed83feefb" />
 
 ## Features
 - **Now Playing display:** album art, track title, and artist
